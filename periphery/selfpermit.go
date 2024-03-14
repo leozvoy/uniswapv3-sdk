@@ -6,8 +6,8 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/daoleno/uniswap-sdk-core/entities"
 	"github.com/ethereum/go-ethereum/accounts/abi"
+	"github.com/leozvoy/uniswap-sdk-core/entities"
 )
 
 //go:embed contracts/interfaces/ISelfPermit.sol/ISelfPermit.json

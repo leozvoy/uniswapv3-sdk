@@ -3,8 +3,8 @@ package utils
 import (
 	"math/big"
 
-	"github.com/daoleno/uniswap-sdk-core/entities"
-	"github.com/daoleno/uniswapv3-sdk/constants"
+	"github.com/leozvoy/uniswap-sdk-core/entities"
+	"github.com/leozvoy/uniswapv3-sdk/constants"
 )
 
 /**

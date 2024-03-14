@@ -3,9 +3,9 @@ package utils
 import (
 	"testing"
 
-	"github.com/daoleno/uniswap-sdk-core/entities"
-	"github.com/daoleno/uniswapv3-sdk/constants"
 	"github.com/ethereum/go-ethereum/common"
+	"github.com/leozvoy/uniswap-sdk-core/entities"
+	"github.com/leozvoy/uniswapv3-sdk/constants"
 	"github.com/stretchr/testify/assert"
 )
 

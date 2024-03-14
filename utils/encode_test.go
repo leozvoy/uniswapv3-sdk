@@ -4,7 +4,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/daoleno/uniswapv3-sdk/constants"
+	"github.com/leozvoy/uniswapv3-sdk/constants"
 	"github.com/stretchr/testify/assert"
 )
 

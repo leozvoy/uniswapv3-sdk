@@ -4,9 +4,9 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/daoleno/uniswap-sdk-core/entities"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/hexutil"
+	"github.com/leozvoy/uniswap-sdk-core/entities"
 	"github.com/stretchr/testify/assert"
 )
 

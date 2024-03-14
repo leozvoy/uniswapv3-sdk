@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/daoleno/uniswap-sdk-core/entities"
+	"github.com/leozvoy/uniswap-sdk-core/entities"
 )
 
 func TestMaxLiquidityForAmounts(t *testing.T) {

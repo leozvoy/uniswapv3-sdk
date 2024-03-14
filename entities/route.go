@@ -3,7 +3,7 @@ package entities
 import (
 	"errors"
 
-	"github.com/daoleno/uniswap-sdk-core/entities"
+	"github.com/leozvoy/uniswap-sdk-core/entities"
 )
 
 var (

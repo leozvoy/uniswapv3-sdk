@@ -1,8 +1,8 @@
 package helper
 
 import (
-	coreEntities "github.com/daoleno/uniswap-sdk-core/entities"
 	"github.com/ethereum/go-ethereum/common"
+	coreEntities "github.com/leozvoy/uniswap-sdk-core/entities"
 )
 
 const (

@@ -4,10 +4,10 @@ import (
 	"math/big"
 	"testing"
 
-	core "github.com/daoleno/uniswap-sdk-core/entities"
-	"github.com/daoleno/uniswapv3-sdk/entities"
-	"github.com/daoleno/uniswapv3-sdk/utils"
 	"github.com/ethereum/go-ethereum/common/hexutil"
+	core "github.com/leozvoy/uniswap-sdk-core/entities"
+	"github.com/leozvoy/uniswapv3-sdk/entities"
+	"github.com/leozvoy/uniswapv3-sdk/utils"
 	"github.com/stretchr/testify/assert"
 )
 

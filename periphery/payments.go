@@ -4,8 +4,8 @@ import (
 	_ "embed"
 	"math/big"
 
-	"github.com/daoleno/uniswap-sdk-core/entities"
 	"github.com/ethereum/go-ethereum/common"
+	"github.com/leozvoy/uniswap-sdk-core/entities"
 )
 
 //go:embed contracts/interfaces/IPeripheryPaymentsWithFee.sol/IPeripheryPaymentsWithFee.json
